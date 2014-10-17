@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hwc:home|Door43 (hwc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hwc|d43-hwc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hwc/archive/master.zip|d43-hwc.zip]]
+
+**Recent Changes**
+{{changes>ns = hwc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hwc|Ethnologue data]]
+
